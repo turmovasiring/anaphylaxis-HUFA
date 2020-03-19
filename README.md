@@ -1,3 +1,5 @@
+Built by ccolonruiz Cristóbal Colón:
+
 # Predicting of anaphylaxis in big data EMR by exploring machine learning approaches.
 
 ## Abstract
